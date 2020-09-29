@@ -26,5 +26,3 @@ The structure is as follows:
 ```
 
 If you have any questions or comments, please get in touch with us via the usual methods.
-
-NB: https://github.com/cassshh/Battleship
