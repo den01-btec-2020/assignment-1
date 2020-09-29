@@ -19,6 +19,13 @@ The structure is as follows:
 +-- asm
 |   +-- asm-1.asm
 |   +-- asm-2.asm
++-- web
+|   +-- html
+|   |   index.html
+|   +-- css
+|   |   main.css
+|   +-- js
+|   |   main.js
 ```
 
 If you have any questions or comments, please get in touch with us via the usual methods.
