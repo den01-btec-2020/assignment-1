@@ -11,8 +11,8 @@ The structure is as follows:
 |   +-- python-1.py
 |   +-- python-2.py
 +-- java
-|   +-- java-1.py
-|   +-- java-2.py
+|   +-- java-1.java
+|   +-- java-2.java
 +-- go
 |   +-- go-1.go
 |   +-- go-2.go
