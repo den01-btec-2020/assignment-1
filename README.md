@@ -8,24 +8,21 @@ The structure is as follows:
 .
 +-- README.md
 +-- python
-|   +-- python-1.py
-|   +-- python-2.py
+|   +-- battleships.py
 +-- java
-|   +-- java-1.java
-|   +-- java-2.java
+|   +-- battleships.java
 +-- go
-|   +-- go-1.go
-|   +-- go-2.go
+|   +-- fizz_buzz.go
+|   +-- http.go
 +-- asm
-|   +-- asm-1.asm
-|   +-- asm-2.asm
+|   +-- hello.asm
 +-- web
-|   +-- html
-|   |   index.html
-|   +-- css
-|   |   main.css
-|   +-- js
-|   |   main.js
+|   +-- web_app.py
+|   +-- templates
+|   |   +-- playing.html
+|   |   +-- splash.html
+|   +-- static
+|   |   +-- <miscellaneous html/css/js files>
 ```
 
 If you have any questions or comments, please get in touch with us via the usual methods.
