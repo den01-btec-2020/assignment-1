@@ -1,6 +1,6 @@
-# Assignment 1 - Concepts of Programming
+# Concepts of Programming
 
-The folders in this repository contain some example code files for you to examine and discuss as part of the work relating to Assignment 1.
+The folders in this repository contain some example code files for you to examine and discuss as part of the work relating to your programming course.
 
 The structure is as follows:
 
